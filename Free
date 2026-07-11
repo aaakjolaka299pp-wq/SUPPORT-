@@ -11,7 +11,7 @@ local SupportedMaps = {
     [112500097711893] = "https://raw.githubusercontent.com/aaakjolaka299pp-wq/Troll-hub-upd/refs/heads/main/LickABrainrot", 
     [110373292461174] = "https://raw.githubusercontent.com/aaakjolaka299pp-wq/Troll-hub-upd/refs/heads/main/PaperPlaneForBrainrot",
     [74442575449267] = "https://raw.githubusercontent.com/aaakjolaka299pp-wq/Troll-hub-upd/refs/heads/main/ThrowHammerForBrainrotFre",
-    [79102003750116] = "https://raw.githubusercontent.com/aaakjolaka299pp-wq/Troll-hub-upd/refs/heads/main/YeetLuvkyBlock"
+    [79102003750116] = "https://raw.githubusercontent.com/aaakjolaka299pp-wq/Troll-hub-upd/refs/heads/main/YeetLuckyBlock"
 } 
 
 local scriptUrl = SupportedMaps[game.PlaceId]
